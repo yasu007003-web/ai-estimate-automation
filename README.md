@@ -72,3 +72,11 @@ GAS②
 PDF生成
    ↓
 Google Driveへ保存
+## 出力例
+
+AIによる現場情報の整理と自動処理によって、
+以下のような見積書PDFを生成します。
+
+### AIによる見積書生成サンプル
+
+![AIによる見積書生成サンプル](images/estimate-output.jpg)
